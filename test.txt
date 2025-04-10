@@ -1,4 +1,4 @@
 hi
 hi from remote
-hi from remote for git fetch
+hi from remote for git fetch-conflict
 hi again
